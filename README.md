@@ -1,2 +1,2 @@
-# margelo_clone
+# margelo-website
 Margelo clone
